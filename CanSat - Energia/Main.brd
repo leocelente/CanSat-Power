@@ -188,6 +188,7 @@
 <text x="58.42" y="24.13" size="1.778" layer="25">NC</text>
 <wire x1="25.4" y1="25.4" x2="25.4" y2="24.13" width="0.254" layer="25"/>
 <wire x1="26.67" y1="25.4" x2="26.67" y2="24.13" width="0.254" layer="25"/>
+<text x="17.78" y="11.43" size="1.778" layer="25">@leocelente</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
